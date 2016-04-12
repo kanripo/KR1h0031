@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 四書集義精要
-#+DATE: 2016-04-12 14:00:55.864549
+#+DATE: 2016-04-12 14:00:56.607517
 #+PROPERTY: ID KR1h0031
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 16
 <pb:KR1h0031_WYG_016-1a>¶
 　　欽定四庫全書¶
@@ -38,7 +38,7 @@
 　　九章(民可使由之)¶
 ¶
 　　或問子謂民可使之由於是理之當然而不能使之知¶
-其所以然者何也曰理之所當然者所謂民之秉&KR0156;百¶
+其所以然者何也曰理之所當然者所謂民之秉彝百¶
 <pb:KR1h0031_WYG_016-2b>¶
 姓所日用者也聖人之為禮樂刑政皆所以使民由之¶
 也其所以然則莫不原於天命之性雖學者有未易得¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 四書集義精要
-#+DATE: 2016-04-12 14:00:55.526472
+#+DATE: 2016-04-12 14:00:56.268055
 #+PROPERTY: ID KR1h0031
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR1h0031_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -30,7 +30,7 @@
 <pb:KR1h0031_WYG_001-2a>¶
 逐一就事物上窮理彼乃一切掃去而空空寂寂然乃¶
 謂事已了若将些子事付之便都沒奈何如古人禮樂¶
-射御書數數尤為最末事若而今行經界則&KR0555;法亦甚¶
+射御書數數尤為最末事若而今行經界則算法亦甚¶
 有用若時文整篇整卷又要何用即徒然壞了許多士¶
 子精神(賀孫)¶
 ¶
